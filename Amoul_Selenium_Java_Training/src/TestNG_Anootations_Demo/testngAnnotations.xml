@@ -1,0 +1,19 @@
+<suite name="TestNG Project Name">
+
+	<test name="module 1">
+	
+		<classes>
+			<class name="TestNG_Anootations_Demo.Class_One"/>
+			<class name="TestNG_Anootations_Demo.Class_Two"/>
+		</classes>
+
+	</test>
+
+	<test name="module 2">
+		<classes>
+			<class name="TestNG_Anootations_Demo.Class_Three"/>
+		</classes>
+	</test>
+
+
+</suite>
